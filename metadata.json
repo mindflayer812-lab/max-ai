@@ -1,0 +1,7 @@
+{
+  "name": "Nexivo AI",
+  "description": "Nexivo AI — Powered by MAX, a futuristic multimodal AI assistant with multilingual reasoning (English, Hindi, Hinglish), vision intelligence, device control, and productivity tools.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
